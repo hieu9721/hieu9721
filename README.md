@@ -28,10 +28,10 @@ Currently learning.
 ### GITHUB ACTIVITY
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hieu9721&show_icons=true&include_all_commits=true&bg_color=161b22&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d&border_radius=12&custom_title=Hi%E1%BA%BFu's%20GitHub%20stats" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu9721&layout=compact&langs_count=8&bg_color=161b22&title_color=3fb950&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hieu9721&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hieu9721&theme=github_dark" alt="Most used languages" />
 </p>
 
 <p align="left">
-  <img width="99%" src="https://streak-stats.demolab.com?user=hieu9721&background=161b22&border=30363d&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="Contribution streak" />
+  <img width="99%" src="https://streak-stats.demolab.com?user=hieu9721&background=0d1117&border=2e343b&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e&border_radius=12" alt="Contribution streak" />
 </p>
